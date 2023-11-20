@@ -11,226 +11,243 @@
         android:id="@+id/editTextNumber111"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
         android:autofillHints=""
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="47dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/editTextNumber131"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="180dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="217dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber211"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="360dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="316dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber212"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginBottom="360dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="316dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
         android:id="@+id/editTextNumber213"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="360dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="316dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber221"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="280dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="405dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber222"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginBottom="280dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="405dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber223"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="280dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="405dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber231"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginBottom="200dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="492dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber232"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginBottom="200dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="492dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber233"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="200dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="492dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber132"
         android:layout_width="93dp"
-        android:layout_height="80dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="180dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="217dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber133"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginEnd="40dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="217dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber112"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginTop="20dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="47dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber123"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="40dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="132dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber121"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="100dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="132dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber122"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginTop="100dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="132dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/editTextNumber113"
         android:layout_width="93dp"
         android:layout_height="75dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="47dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="618dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="160dp"
-        tools:layout_editor_absoluteY="618dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="46dp"
-        tools:layout_editor_absoluteY="618dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
