@@ -8,9 +8,9 @@
 
 
     <EditText
-        android:id="@+id/editTextNumber111"
+        android:id="@+id/cell111"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginStart="40dp"
         android:layout_marginTop="20dp"
         android:autofillHints=""
@@ -21,34 +21,34 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber131"
+        android:id="@+id/cell131"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginStart="40dp"
-        android:layout_marginTop="180dp"
+        android:layout_marginTop="140dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber211"
+        android:id="@+id/cell211"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginStart="40dp"
-        android:layout_marginBottom="360dp"
+        android:layout_marginBottom="280dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber212"
+        android:id="@+id/cell212"
         android:layout_width="93dp"
-        android:layout_height="75dp"
-        android:layout_marginBottom="360dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="280dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
@@ -57,117 +57,117 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber213"
+        android:id="@+id/cell213"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginEnd="40dp"
-        android:layout_marginBottom="360dp"
+        android:layout_marginBottom="280dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber221"
+        android:id="@+id/cell221"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginStart="40dp"
-        android:layout_marginBottom="280dp"
+        android:layout_marginBottom="220dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber222"
+        android:id="@+id/cell222"
         android:layout_width="93dp"
-        android:layout_height="75dp"
-        android:layout_marginBottom="280dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="220dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber223"
+        android:id="@+id/cell223"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginEnd="40dp"
-        android:layout_marginBottom="280dp"
+        android:layout_marginBottom="220dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber231"
+        android:id="@+id/cell231"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginStart="40dp"
-        android:layout_marginBottom="200dp"
+        android:layout_marginBottom="160dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber232"
+        android:id="@+id/cell232"
         android:layout_width="93dp"
-        android:layout_height="75dp"
-        android:layout_marginBottom="200dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="160dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber233"
+        android:id="@+id/cell233"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginEnd="40dp"
-        android:layout_marginBottom="200dp"
+        android:layout_marginBottom="160dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber132"
+        android:id="@+id/cell132"
         android:layout_width="93dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="140dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber133"
+        android:id="@+id/cell133"
         android:layout_width="93dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="140dp"
         android:layout_marginEnd="40dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber112"
+        android:id="@+id/cell112"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginTop="20dp"
         android:ems="10"
         android:hint="@string/app_name"
@@ -177,45 +177,45 @@
         app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
-        android:id="@+id/editTextNumber123"
+        android:id="@+id/cell123"
         android:layout_width="93dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
         android:layout_marginEnd="40dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber121"
+        android:id="@+id/cell121"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginStart="40dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="80dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber122"
+        android:id="@+id/cell122"
         android:layout_width="93dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
         android:ems="10"
         android:hint="@string/app_name"
         android:inputType="number"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber113"
+        android:id="@+id/cell113"
         android:layout_width="93dp"
-        android:layout_height="75dp"
+        android:layout_height="50dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="40dp"
         android:ems="10"
@@ -228,26 +228,27 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Invert"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Multiply"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:onClick="calcDET"
+        android:text="DET"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
